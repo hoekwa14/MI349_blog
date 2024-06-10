@@ -17,5 +17,24 @@
             </ul>
         </nav>
     </header>
+    <section>
+        <h2>Contact us at <em>Nick’s Weblog</em>!</h2>
+        <form>
+            <label for="name">Enter your name: </label>
+            <input type="text" name="name" id="name" required />
+            <label for="email">Enter your email: </label>
+            <input type="email" name="email" id="email" required />
+            <label for="contact-reason">Reason for contact:</label>
+            <select id="contact-reason" name="contact-reason">
+            <option value="Saying hi!">Saying hello</option>
+            <option value="Looking for a contractor">Looking for a contractor</option>
+            <option value="Interested in an interview">Interested in an interview</option>
+            </select>
+            <label for="open-comment">Enter an open comment: </label>
+            <input type="text" name="open-comment" id="open-comment" required />
+
+            <input type="submit" value="Submit!" />
+        </form>
+    </section>
 </body>
 </html>
