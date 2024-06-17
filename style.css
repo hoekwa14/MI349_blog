@@ -80,6 +80,8 @@ table{
     color: #ccc;
     border-spacing: 25px 0;
     float: right;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
   }
 
 
