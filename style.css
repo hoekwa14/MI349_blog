@@ -68,7 +68,6 @@ a[href$=".html" i] {
     position: static;
     background: #424242;
     border-radius: 20px;
-    height: 250px;
     float: none;
     color: #ccc;
     margin-top: 20px;
@@ -92,6 +91,5 @@ table{
 .photo2 {
     background: no-repeat bottom / cover url('Images/IMG_20240208_194210.jpg');
     height: 800px;
-
     border-radius: 20px;
 }
