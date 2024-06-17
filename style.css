@@ -112,5 +112,5 @@ form{
 }
 
 main{
-    font-size: 2em;
+    border-bottom: 1px dotted #ccc;
 }
