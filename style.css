@@ -8,8 +8,8 @@ body {
     padding: 40px;
     color: #242424;
     border-top: 10px solid #242424;
+    border-bottom: 10px solid #242424;
     background: #fff;
-
 }
 
 h1{
@@ -96,3 +96,12 @@ table{
     border-radius: 20px;
 }
 
+form{
+    border-bottom: 5px solid #242424;
+}
+
+.headshot {
+    background: no-repeat bottom / cover url('Images/442411853_7773082726045510_7600507923494276900_n.jpg');
+    height: 400px;
+    border-radius: 20px;
+}
