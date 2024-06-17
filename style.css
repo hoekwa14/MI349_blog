@@ -28,12 +28,11 @@ p {
 
 #blog {
     border-top: 1px dotted #ccc;
-
 }
 
 .blog-post {
     border-bottom: 1px dotted #ccc;
-
+    display: flex;
 }
 
 .sticky {
