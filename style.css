@@ -15,14 +15,14 @@ body {
 h1{
     font-size: 3em;
     margin: 0;
+}
 
+h2{
 
 }
 
 p {
     line-height: 1.4em;
-
-
 }
 
 #blog {
@@ -33,4 +33,12 @@ p {
 .blog-post {
     border-bottom: 1px dotted #ccc;
 
+}
+
+.sticky {
+    background: #ccc;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 20px;
 }
