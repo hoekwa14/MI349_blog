@@ -84,13 +84,13 @@ table{
 
 
 .photo1 {
-    background: no-repeat bottom / cover url('images/federica-galli-aiqKc07b5PA-unsplash 1.jpg');
+    background: no-repeat bottom / cover url('Images/image.png');
     height: 250px;
     border-radius: 20px;
 }
 
 .photo2 {
-    background: no-repeat bottom / cover url('images/federica-galli-aiqKc07b5PA-unsplash 1.jpg');
+    background: no-repeat bottom / cover url('Images/IMG_20240208_194210.jpg');
     height: 250px;
     border-radius: 20px;
 }
