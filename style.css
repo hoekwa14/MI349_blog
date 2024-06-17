@@ -122,5 +122,7 @@ main{
     bottom: 0;
     width: 100%;
     background-color: #fff;
+    border-top: 10px solid #242424;
     text-align: center;
+    line-height: 1.4em;
 }
