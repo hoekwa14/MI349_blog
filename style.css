@@ -43,11 +43,11 @@ p {
     
 }
 
-a[author] {
-  padding: 20px;
+.author {
+  padding: 15px;
 }
 
-.blog-post time{
+time{
   padding: 10px;
 }
 
@@ -58,4 +58,39 @@ a[author] {
     top: 0;
     padding: 10px;
     border-bottom: 1px dotted #ccc;
+}
+
+a[href$=".html" i] {
+  font-style: italic;
+}
+
+.img-container {
+    position: static;
+    background: #424242;
+    border-radius: 20px;
+    height: 250px;
+    float: none;
+    color: #ccc;
+    margin-top: 20px;
+}
+
+table{
+    background: #424242;
+    border-radius: 20px;
+    padding: 10px;
+    color: #ccc;
+    border-spacing: 25px 0;
+  }
+
+
+.photo1 {
+    background: no-repeat bottom / cover url('Images/image.png');
+    height: 250px;
+    border-radius: 20px;
+}
+
+.photo2 {
+    background: no-repeat bottom / cover url('Images/IMG_20240208_194210.jpg');
+    height: 250px;
+    border-radius: 20px;
 }
