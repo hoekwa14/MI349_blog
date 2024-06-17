@@ -19,7 +19,7 @@ h1{
 }
 
 h2{
-
+  margin: 20px;
 }
 
 p {
@@ -33,6 +33,22 @@ p {
 .blog-post {
     border-bottom: 1px dotted #ccc;
     display: flex;
+    gap: 25px;
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #e9eaec;
+    border-radius: 20px;
+    margin-top: 25px;
+    padding: 25px;
+    
+}
+
+a[author] {
+  padding: 20px;
+}
+
+.blog-post time{
+  padding: 10px;
 }
 
 .sticky {
