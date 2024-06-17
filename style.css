@@ -37,7 +37,7 @@ p {
 }
 
 .sticky {
-    background: #f1f1f1;
+    background: #fff;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
