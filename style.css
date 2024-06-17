@@ -91,6 +91,7 @@ table{
 
 .photo2 {
     background: no-repeat bottom / cover url('Images/IMG_20240208_194210.jpg');
-    height: 250px;
+    height: 800px;
+
     border-radius: 20px;
 }
