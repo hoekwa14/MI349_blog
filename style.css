@@ -103,6 +103,7 @@ form{
 .headshot {
     background: no-repeat bottom / cover url('Images/442411853_7773082726045510_7600507923494276900_n.jpg');
     height: 400px;
+    width: 400px;
     border-radius: 20px;
 }
 
