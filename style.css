@@ -110,3 +110,7 @@ form{
 .backgroundinfo{
     line-height: 25px;
 }
+
+main{
+    font-size: 2em;
+}
